@@ -1,0 +1,26 @@
+{
+  "post": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+
+  "user": [
+   
+  ],
+  "posts":[],
+  "data": [
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fperson%2F&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAE", "name": "Abcd", "address": "we"},
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAJ", "name": "Ramesh", "address": "as"},
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fmen&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAZ", "name": "Suresh", "address": "XYsdfasdffZ"},
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fperson&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAg", "name": "Mahesh", "address": "sdfdsfwereew"},
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhigh-angle-view-of-happy-young-man-looking-at-camera-on-white-background-gm959938326-262138151&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAo", "name": "Naresh", "address": "Xwerwer3sdfdsfdsfsf4535YZ"},
+    {"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fsuspicious-looking-person.html&psig=AOvVaw3HXSoUvcreZUZdEeWwkCZJ&ust=1670830173605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjUyMqF8fsCFQAAAAAdAAAAABAw", "name": "Paresh", "address": "XYZsdf"},
+
+    {}
+  ],
+   "cart": [
+  
+  ],
+  "get": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ]
+}
